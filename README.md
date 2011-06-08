@@ -4,8 +4,10 @@ O Pagpress será um plugin desenvolvido para Wordpress 3.0, que viabilizará as 
 
 Funcionamento
 ================
-O Pagpress vai ser instalado no novo site que será lançado do Conexão Paris. Ele terá que se adaptar as necessidades do site, de usabilidade e experiência dos usuários já analisados pela Voel. Os fluxos básicos constam na proposta. O Plugin será flexível e irá oferecer opções de personalização de acordo com a necessidade do processo de compra.
-Soluções existentes
+O Pagpress vai ser instalado no novo site que será lançado do Conexão Paris. Ele será uma solução de integração completa utilizando o Moip.
+
+### Soluções existentes ###
+
 O plugin será o primeiro a atender uma deficiência de não existir uma solução satisfatória de integrar o Wordpress com um sistema básico de compras online, para isto, foram analisadas as seguintes soluções:
 
 Plugin de Wordpress oficial do Pagseguro
